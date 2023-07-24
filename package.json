@@ -8,9 +8,13 @@
     "export": "next export"
   },
   "dependencies": {
+    "@prisma/client": "^5.0.0",
     "cypress": "^10.0.3",
     "next": "^13.4.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.0.0"
   }
 }
